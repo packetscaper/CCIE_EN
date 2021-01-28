@@ -2,4 +2,5 @@
 
 ````
 show site lisp 
+show lisp eid-table 
 ````
